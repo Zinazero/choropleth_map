@@ -1,0 +1,1 @@
+# A program utilizing javaScript, HTML and CSS to generate a choropleth map from the fetched .json data. This program was produced as part of the Data Visualization course on freeCodeCamp.org. Created by Jacob Hexamer.

@@ -1,0 +1,38 @@
+body {
+    font-family: gotham;
+    text-align: center;
+  }
+  
+  #container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+  }
+  
+  #title {
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  
+  #description {
+    font-size: 1.5rem;
+  }
+  
+  #tooltip {
+    position: absolute;
+    z-index: 9999;
+    color: black;
+    height: auto;
+    width: auto;
+    background-color: beige;
+    white-space: pre;
+    line-height: 1.5;
+    padding: 5px;
+    box-shadow: 1px 1px 10px;
+  }
+  
+  #legend {
+    font-size: 12px;
+    text-anchor: middle;
+  }
